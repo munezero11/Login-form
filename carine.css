@@ -1,0 +1,14 @@
+body{
+	background-color:skyblue;
+	form{
+		border-radius:20px;
+		background-color:pink;
+		margin-left:20px;
+		margin-top:20px;   
+}
+button
+{
+border-radius:10px;
+width:80px;
+height:30px;  
+}
